@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryanBlaze00
 - 👀 I’m interested in Programming, Development, Engineering, Internships, Fire Performing, Boardgames, Plants, .
 - 🌱 I’m currently learning GitHub, Java, Python, C#, C++, OOP, HTML, CSS, PHP, JavaScript, SQL, Jira
-- 💞️ I’m looking to collaborate on random fun programs, how to code fire/games/apps/and a boardgame on www.boardgamearena.com
+- 💞️ I’m looking to collaborate on random fun projects; How to code fire/games/apps/and a boardgames
 - 📫 How to reach me crash.man000@gmail.com
 
 <!---
