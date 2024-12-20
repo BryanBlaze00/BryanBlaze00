@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BryanBlaze00
+- 👋 Hi, I’m Bryan Blaze
 - 👀 I’m interested in Programming, Development, Engineering, Internships, Fire Performing, Boardgames, Video Games.
 - 🧮 I have experience in GitHub, Java, C#, C++, OOP, SQL, Jira, Unity
 - 🌱 I’m currently learning Python, HTML, CSS, PHP, JavaScript
