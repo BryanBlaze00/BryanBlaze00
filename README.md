@@ -149,9 +149,9 @@
  
 
 <p align = "center"> <!-- Or use 200x150 when more -->
-  <img width="300" height="250" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_Undergrad_Computer_Programming_CSUG.png" alt="Undergraduate Computer Science"/>
-  <img width="300" height="250" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_JavaSwing_LinkedIn.png" alt="Java Swing"/>
-  <img width="300" height="250" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_JavaFX_GUI_LinkedIn.png" alt="JavaFX GUI"/>
+  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_Undergrad_Computer_Programming_CSUG.png" title="Undergraduate Computer Science Certificate"/>
+  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_JavaSwing_LinkedIn.png" title="Java Swing Certificate"/>
+  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_JavaFX_GUI_LinkedIn.png" title="JavaFX GUI Certificate"/>
 </p>
 
 <div align="center">
@@ -183,7 +183,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=CnCWa9q0hes&t=1s" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/GF_Trailer.png"  width="500" /></a>
+  <a href="https://www.youtube.com/watch?v=CnCWa9q0hes&t=1s" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/GF_Trailer.png"  width="500" title="Play Geared Fate Trailer"/></a>
     <img src="https://img.itch.zone/aW1nLzE5NjQ2NzM1LnBuZw==/original/75S7nd.png" alt="Geared Fate Banner"/>  
 </div> 
 <br>
@@ -207,15 +207,15 @@
 </div> 
 <h4 align="center"> Stay connected. </h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryanblaze" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/bryanblaze" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" title="Linked In Profile"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:crash.man000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:crash.man000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" title="Email Me"/></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/gKyTAaZD8j" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/discord.png"  width="50" /></a>
+  <a href="https://discord.gg/gKyTAaZD8j" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/discord.png"  width="50" title="Join me on Discord"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/BryanBlaze" target="_blank" rel="noopener noreferrer"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png"  width="50" /></a>
+  <a href="https://www.hackerrank.com/profile/BryanBlaze" target="_blank" rel="noopener noreferrer"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png"  width="50" title="Hacker Rank Profile"/></a>
   &nbsp;&nbsp;
-  <a href="https://bryanblaze00.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" /></a>
+  <a href="https://bryanblaze00.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" title="My Itch.io Games"/></a>
 </p>
 <br>
 <h2 align="center"> Thanks for visiting my profile. </h2>
