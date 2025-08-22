@@ -144,10 +144,10 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div>
- 
 
+<h2 align="center"> Certifications </h2>
 <p align = "center"> <!-- Or use 200x150 when more -->
   <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_Undergrad_Computer_Programming_CSUG.png" title="Undergraduate Computer Science Certificate"/>
   <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_JavaSwing_LinkedIn.png" title="Java Swing Certificate"/>
