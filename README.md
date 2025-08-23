@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div> 
+
 <h3 align="center">Core Competencies<br><img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/code.gif" height="40"/></h3>
 
 <div align="center" style="witdh:100%"> 
@@ -176,6 +177,25 @@
 
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+  <a href="https://github.com/BryanBlaze00">
+    <img src="https://github-readme-stats.vercel.app/api?username=BryanBlaze00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=49%" alt="BryanBlaze00's GitHub Stats" />
+  </a>
+  <a href="https://github.com/BryanBlaze00">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanBlaze00&layout=compact&theme=tokyonight&hide_border=true&card_width=49%" alt="BryanBlaze00's Top Languages" />
+  </a>
+  <a href="https://streak-stats.demolab.com?user=BryanBlaze00">
+    <img src="https://streak-stats.demolab.com?user=BryanBlaze00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanBlaze00&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanBlaze00&theme=tokyonight" alt="GitHub Summary Card" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div> 
 
 <h2 align="center">
