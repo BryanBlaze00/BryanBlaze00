@@ -5,6 +5,18 @@
   A Software/Game & Full Stack Developer.
 </h3>
 
+<h6 align="center">
+  Perfect code is not accident, it's architecture
+  <br>
+  Performance is not optional, it's fundamental
+  <br>
+  Clean code is not just readable, it's poetry
+  <br>
+  Innovation happens when you stop accepting limits
+  <br>
+  Every bug is a lesson, every feature is a conquest
+</h6>
+
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div> 
