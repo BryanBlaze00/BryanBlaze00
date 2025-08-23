@@ -190,7 +190,7 @@
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
 </div> 
-
+<!--
 <div align="center">
   <a href="https://github.com/BryanBlaze00">
     <img src="https://github-readme-stats.vercel.app/api?username=BryanBlaze00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=49%" alt="BryanBlaze00's GitHub Stats" />
@@ -205,11 +205,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanBlaze00&theme=tokyonight" alt="GitHub Summary Card" />
   </a>
 </div>
-
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div> 
-
+-->
 <h2 align="center">
   Featured Project.
 </h2>
