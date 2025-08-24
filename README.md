@@ -63,6 +63,7 @@
       <td valign="center" align="center" width="300px"> <!-- Softwares -->
         <img src="https://img.shields.io/badge/APIs-blue" /> 
         <img src="https://img.shields.io/badge/AWS-blue" /> 
+        <img src="https://img.shields.io/badge/Azure-blue" /> 
         <img src="https://img.shields.io/badge/Cloud-blue" /> 
         <img src="https://img.shields.io/badge/Docker-blue" /> 
         <img src="https://img.shields.io/badge/IntelliJ-blue" /> 
@@ -73,6 +74,7 @@
         <img src="https://img.shields.io/badge/Salesforce-blue" /> 
         <img src="https://img.shields.io/badge/Slack-blue" /> 
         <img src="https://img.shields.io/badge/Sourcetree-blue" /> 
+        <img src="https://img.shields.io/badge/Tableau-blue" /> 
         <img src="https://img.shields.io/badge/VControl-blue" /> 
         <img src="https://img.shields.io/badge/VS Code-blue" /> 
         <!-- Other
@@ -108,7 +110,9 @@
         <img src="https://img.shields.io/badge/Customer Service-teal" />
         <img src="https://img.shields.io/badge/CI/CD-teal" />
         <img src="https://img.shields.io/badge/Collaboration-teal" />
+        <img src="https://img.shields.io/badge/Communication-teal" />
         <img src="https://img.shields.io/badge/Full Stack Development-teal" />
+        <img src="https://img.shields.io/badge/Leadership-teal" />
         <img src="https://img.shields.io/badge/Problem Solving-teal" />
         <img src="https://img.shields.io/badge/Project Management-teal" />
         <img src="https://img.shields.io/badge/SDLC Software Development Life Cycle-teal" />
