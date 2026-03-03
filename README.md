@@ -250,7 +250,7 @@
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/BryanBlaze" target="_blank" rel="noopener noreferrer"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png"  width="50" title="Hacker Rank Profile"/></a>
   &nbsp;&nbsp;
-  <a href="https://bryanblaze00.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" title="My Itch.io Games"/></a>
+  <a href="https://bryanblaze00.itch.io](https://bryanblazebb.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" title="My Itch.io Games"/></a>
 </p>
 <br>
 <h2 align="center"> Thanks for visiting my profile. </h2>
