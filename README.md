@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Bryan (Blaze) Moffett.
+  Hello, I'm Bryan "Blaze" Moffett.
 </h1>
 <h3 align="center">
   A Software/Game & Full Stack Developer.
