@@ -214,6 +214,35 @@
 </div> 
 -->
 <h2 align="center">
+  Featured Project
+</h2>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CnCWa9q0hes" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/GF_Trailer.png" width="500" title="Play Geared Fate Trailer" alt="Play Geared Fate Trailer"/>
+  </a>
+  <img src="https://img.itch.zone/aW1nLzE5NjQ2NzM1LnBuZw==/original/75S7nd.png" alt="Geared Fate Banner"/>  
+</div> 
+
+<br>
+
+<h3 align="center">
+  Boss Rush Game Jam 2025 - Geared Fate
+</h3>
+
+<h4 align="center">
+  A one-month game jam project built with the Unity game engine and C#. I was the Project Manager, overseeing the full development cycle using Agile methodologies. My responsibilities included hands-on Game Design and lore idea generation, as well as Programming gameplay mechanics with a Modular OOP design, and creating some 2D pixel art assets. This experience demonstrates my ability to execute a project from concept to completion under pressure, contributing across multiple disciplines.
+</h4>
+
+<br>
+
+<div align="center">
+  <img width="350" height="250" src="https://raw.githubusercontent.com/BryanBlaze00/Geared-Fate/main/Media/GF_Gameplay_1.gif" alt="Geared Fate Gameplay 1"/> 
+  <img width="250" height="200" src="https://img.itch.zone/aW1hZ2UvMzI4NTU4OS8xOTY4NzcwOC5wbmc=/original/49R48L.png" alt="Geared Fate Thumbnail"/> 
+  <img width="350" height="250" src="https://raw.githubusercontent.com/BryanBlaze00/Geared-Fate/main/Media/GF_Gameplay_2.gif" alt="Geared Fate Gameplay 2"/> 
+</div>
+
+<h2 align="center">
   Featured Project.
 </h2>
 
