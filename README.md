@@ -21,81 +21,6 @@
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h2 align="center">Core Competencies</h2>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <th align="center" width="50%"><b>Languages & Frameworks</b></th>
-      <th align="center" width="50%"><b>Tools, Cloud & Databases</b></th>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/C%23-red" />
-        <img src="https://img.shields.io/badge/C%2B%2B-red" />
-        <img src="https://img.shields.io/badge/Python-red" />
-        <img src="https://img.shields.io/badge/Java-red" />
-        <img src="https://img.shields.io/badge/.NET-red" />
-        <img src="https://img.shields.io/badge/SQL-red" />
-        <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-red" />
-        <img src="https://img.shields.io/badge/JavaScript-red" />
-        <img src="https://img.shields.io/badge/PHP-red" />
-        <img src="https://img.shields.io/badge/HTML5-red" />
-        <img src="https://img.shields.io/badge/CSS3-red" />
-        <img src="https://img.shields.io/badge/JSON-red" />
-        <img src="https://img.shields.io/badge/XML-red" />
-        </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Git-blue" />
-        <img src="https://img.shields.io/badge/GitHub-blue" />
-        <img src="https://img.shields.io/badge/REST%20APIs-blue" />
-        <img src="https://img.shields.io/badge/AWS-blue" />
-        <img src="https://img.shields.io/badge/Azure-blue" />
-        <img src="https://img.shields.io/badge/Docker-blue" />
-        <img src="https://img.shields.io/badge/MySQL-blue" />
-        <img src="https://img.shields.io/badge/ETL%20Pipelines-blue" />
-        <img src="https://img.shields.io/badge/JIRA-blue" />
-        <img src="https://img.shields.io/badge/Tableau-blue" />
-        <img src="https://img.shields.io/badge/Salesforce-blue" />
-        <img src="https://img.shields.io/badge/Slack-blue" />
-        <img src="https://img.shields.io/badge/IntelliJ-blue" />
-        <img src="https://img.shields.io/badge/VS%20Code-blue" />
-        <img src="https://img.shields.io/badge/Sourcetree-blue" />
-        </td>
-    </tr>
-
-    <tr>
-      <th align="center" width="50%"><b>Game & Interactive Development</b></th>
-      <th align="center" width="50%"><b>Engineering & Methodologies</b></th>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Unity-green" />
-        <img src="https://img.shields.io/badge/2D%20Physics-green" />
-        <img src="https://img.shields.io/badge/Finite%20State%20Machines-green" />
-        <img src="https://img.shields.io/badge/Event--Driven%20Architecture-green" />
-        <img src="https://img.shields.io/badge/Ableton-green" />
-        <img src="https://img.shields.io/badge/Aseprite-green" />
-        <img src="https://img.shields.io/badge/Blender-green" />
-        <img src="https://img.shields.io/badge/FMOD-green" />
-        <img src="https://img.shields.io/badge/Photoshop-green" />
-        </td>
-      <td align="center" valign="top">
-        <img src="https://img.shields.io/badge/Object--Oriented%20Design-teal" />
-        <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-teal" />
-        <img src="https://img.shields.io/badge/Software%20QA%20%26%20Testing-teal" />
-        <img src="https://img.shields.io/badge/CI%2FCD-teal" />
-        <img src="https://img.shields.io/badge/Root--Cause%20Analysis-teal" />
-        <img src="https://img.shields.io/badge/Systems%20Administration-teal" />
-        <img src="https://img.shields.io/badge/Project%20Management-teal" />
-        <img src="https://img.shields.io/badge/SDLC-teal" />
-        <img src="https://img.shields.io/badge/Technical%20Documentation-teal" />
-        <img src="https://img.shields.io/badge/Troubleshooting-teal" />
-        </td>
-    </tr>
-  </table>
-</div>
-
 <h3 align="center">Core Competencies<br><img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/code.gif" height="40"/></h3>
 
 <div align="center" style="witdh:100%"> 
@@ -169,7 +94,7 @@
           <img src="https://img.shields.io/badge/Unity-green" />         
           <img src="https://img.shields.io/badge/2D Physics-green" />
           <img src="https://img.shields.io/badge/Finite State Machines-green" />
-          <img src="https://img.shields.io/badge/Event-Driven Architecture-green" />
+          <img src="https://img.shields.io/badge/Event--Driven Architecture-green" />
           <!-- OTHER GAME STUFF
           <img src="https://img.shields.io/badge/Unreal-green" /> 
           <img src="https://img.shields.io/badge/Godot-green" />
@@ -195,10 +120,10 @@
         <img src="https://img.shields.io/badge/Collaboration-teal" />
         <img src="https://img.shields.io/badge/Communication-teal" />
         <img src="https://img.shields.io/badge/Leadership-teal" />
-        <img src="https://img.shields.io/badge/Object-Oriented Design-teal" />
+        <img src="https://img.shields.io/badge/Object--Oriented Design-teal" />
         <img src="https://img.shields.io/badge/Problem Solving-teal" />
         <img src="https://img.shields.io/badge/Project Management-teal" />
-        <img src="https://img.shields.io/badge/Root-Cause Analysis-teal" />
+        <img src="https://img.shields.io/badge/Root--Cause Analysis-teal" />
         <img src="https://img.shields.io/badge/SDLC Software Development Life Cycle-teal" />
         <img src="https://img.shields.io/badge/Software QA / Testing-teal" />
         <img src="https://img.shields.io/badge/Software Quality Assurance-teal" />
