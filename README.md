@@ -32,8 +32,8 @@
     </tr>
     <tr>
 <td valign="center" align="center" width="300px"> <!-- Languages -->
-        <img src="https://img.shields.io/badge/C%23-red" />
-        <img src="https://img.shields.io/badge/C%2B%2B-red" />
+        <img src="https://img.shields.io/badge/C#-red" />
+        <img src="https://img.shields.io/badge/C++-red" />
         <img src="https://img.shields.io/badge/Python-red" />
         <img src="https://img.shields.io/badge/Java-red" />
         <img src="https://img.shields.io/badge/.NET-red" />
@@ -43,6 +43,7 @@
         <img src="https://img.shields.io/badge/PHP-red" />
         <img src="https://img.shields.io/badge/HTML5-red" />
         <img src="https://img.shields.io/badge/CSS3-red" />
+        <img src="https://img.shields.io/badge/TypeScript-red" />
         <img src="https://img.shields.io/badge/JSON-red" />
         <img src="https://img.shields.io/badge/XML-red" />
         <!-- OTHER LANGS
