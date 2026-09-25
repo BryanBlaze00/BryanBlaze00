@@ -103,21 +103,23 @@
     <tr>
       <th valign="center" align="center" width="100px"><b>Languages<b></th>
       <th valign="center" align="center" width="100px"><b>Tools & Platforms<b></th>
-      <th valign="center" align="center" width="100px"><b>Game Development<b></th>
+      <th valign="center" align="center" width="100px"><b>Game & Interactive Development<<b></th>
     </tr>
     <tr>
 <td valign="center" align="center" width="300px"> <!-- Languages -->
-        <img src="https://img.shields.io/badge/C ♯-red" />
-        <img src="https://img.shields.io/badge/C++-red" />
-        <img src="https://img.shields.io/badge/CSS-red" />
-        <img src="https://img.shields.io/badge/HTML-red" />
-        <img src="https://img.shields.io/badge/Java-red" />
-        <img src="https://img.shields.io/badge/JavaScript-red" />
-        <img src="https://img.shields.io/badge/JSON-red" />
-        <img src="https://img.shields.io/badge/PHP-red" />
+        <img src="https://img.shields.io/badge/C%23-red" />
+        <img src="https://img.shields.io/badge/C%2B%2B-red" />
         <img src="https://img.shields.io/badge/Python-red" />
+        <img src="https://img.shields.io/badge/Java-red" />
+        <img src="https://img.shields.io/badge/.NET-red" />
         <img src="https://img.shields.io/badge/SQL-red" />
-        <img src="https://img.shields.io/badge/TypeScript-red" />
+        <img src="https://img.shields.io/badge/Bash / Shell-red" />
+        <img src="https://img.shields.io/badge/JavaScript-red" />
+        <img src="https://img.shields.io/badge/PHP-red" />
+        <img src="https://img.shields.io/badge/HTML5-red" />
+        <img src="https://img.shields.io/badge/CSS3-red" />
+        <img src="https://img.shields.io/badge/JSON-red" />
+        <img src="https://img.shields.io/badge/XML-red" />
         <!-- OTHER LANGS
         <img src="https://img.shields.io/badge/GO-red" />
         <img src="https://img.shields.io/badge/React-red" />
@@ -138,16 +140,17 @@
         -->
       </td>
       <td valign="center" align="center" width="300px"> <!-- Softwares -->
-        <img src="https://img.shields.io/badge/APIs-blue" /> 
         <img src="https://img.shields.io/badge/AWS-blue" /> 
         <img src="https://img.shields.io/badge/Azure-blue" /> 
         <img src="https://img.shields.io/badge/Cloud-blue" /> 
         <img src="https://img.shields.io/badge/Docker-blue" /> 
+        <img src="https://img.shields.io/badge/ETL Pipelines-blue" />
         <img src="https://img.shields.io/badge/IntelliJ-blue" /> 
         <img src="https://img.shields.io/badge/Git-blue" /> 
         <img src="https://img.shields.io/badge/Github-blue" /> 
         <img src="https://img.shields.io/badge/JIRA-blue" /> 
         <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/REST APIs-blue" />
         <img src="https://img.shields.io/badge/Salesforce-blue" /> 
         <img src="https://img.shields.io/badge/Slack-blue" /> 
         <img src="https://img.shields.io/badge/Sourcetree-blue" /> 
@@ -163,7 +166,10 @@
           <img src="https://img.shields.io/badge/Blender-green" /> 
           <img src="https://img.shields.io/badge/FMOD-green" /> 
           <img src="https://img.shields.io/badge/Photoshop-green" /> 
-          <img src="https://img.shields.io/badge/Unity-green" /> 
+          <img src="https://img.shields.io/badge/Unity-green" />         
+          <img src="https://img.shields.io/badge/2D Physics-green" />
+          <img src="https://img.shields.io/badge/Finite State Machines-green" />
+          <img src="https://img.shields.io/badge/Event-Driven Architecture-green" />
           <!-- OTHER GAME STUFF
           <img src="https://img.shields.io/badge/Unreal-green" /> 
           <img src="https://img.shields.io/badge/Godot-green" />
@@ -175,7 +181,7 @@
 
  <table>
     <tr>
-      <th valign="center" align="center" width="100px"><b>Methodologies & Practices<b></th>
+      <th valign="center" align="center" width="100px"><b>Engineering & Methodologies<b></th>
       <!-- Could make mor tables under if needed
       <th valign="center" align="center" width="100px"><b>Game Related<b></th>
       -->
@@ -183,18 +189,20 @@
     <tr>
       <td valign="center" align="center" width="600px">  <!-- Professional  -->
         <img src="https://img.shields.io/badge/Adaptibility-teal" />
-        <img src="https://img.shields.io/badge/Agile Methodology-teal" />
+        <img src="https://img.shields.io/badge/Agile / Scrum-teal" />
         <img src="https://img.shields.io/badge/Customer Service-teal" />
-        <img src="https://img.shields.io/badge/CI/CD-teal" />
+        <img src="https://img.shields.io/badge/CI / CD-teal" />
         <img src="https://img.shields.io/badge/Collaboration-teal" />
         <img src="https://img.shields.io/badge/Communication-teal" />
-        <img src="https://img.shields.io/badge/Full Stack Development-teal" />
         <img src="https://img.shields.io/badge/Leadership-teal" />
-        <img src="https://img.shields.io/badge/MySQL-blue" />
+        <img src="https://img.shields.io/badge/Object-Oriented Design-teal" />
         <img src="https://img.shields.io/badge/Problem Solving-teal" />
         <img src="https://img.shields.io/badge/Project Management-teal" />
+        <img src="https://img.shields.io/badge/Root-Cause Analysis-teal" />
         <img src="https://img.shields.io/badge/SDLC Software Development Life Cycle-teal" />
+        <img src="https://img.shields.io/badge/Software QA / Testing-teal" />
         <img src="https://img.shields.io/badge/Software Quality Assurance-teal" />
+        <img src="https://img.shields.io/badge/Systems Administration-teal" />
         <img src="https://img.shields.io/badge/Teamwork-teal" />
         <img src="https://img.shields.io/badge/Technical Communication-teal" />
         <img src="https://img.shields.io/badge/Troubleshooting-teal" />
