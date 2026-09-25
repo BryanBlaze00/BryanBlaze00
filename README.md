@@ -32,7 +32,7 @@
     </tr>
     <tr>
 <td valign="center" align="center" width="300px"> <!-- Languages -->
-        <img src="https://img.shields.io/badge/C♯-red" />
+        <img src="https://img.shields.io/badge/C%23-red" />
         <img src="https://img.shields.io/badge/C++-red" />
         <img src="https://img.shields.io/badge/Python-red" />
         <img src="https://img.shields.io/badge/Java-red" />
