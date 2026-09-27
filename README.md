@@ -284,7 +284,7 @@
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
 </div> 
-<h2 align="center"> Stat Metrics. </h3>
+<h2 align="center"> Metrics </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/github-metrics.svg" alt="Bryan's Language Breakdown" />
 </p>
