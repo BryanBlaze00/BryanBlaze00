@@ -285,8 +285,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBlaze00&theme=dark&hide_border=true" alt="Bryan's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanBlaze00&show_icons=true&theme=dark&hide_border=true" alt="Bryan's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanBlaze00&layout=compact&theme=dark&hide_border=true" alt="Bryan's Top Languages" width="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanBlaze00&theme=react-dark&hide_border=true" alt="Bryan's Activity Graph" width="90%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BryanBlaze00&theme=onedark&column=6&margin-w=15&no-frame=true" alt="Bryan's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBlaze00&theme=dark&hide_border=true" alt="Bryan's GitHub Streak" />
 </p>
 
 <br>
