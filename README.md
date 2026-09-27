@@ -240,7 +240,11 @@
 </h3>
 
 <h4 align="center">
-  A one-month game jam project built with the Unity game engine and C#. I was the Project Manager, overseeing the full development cycle using Agile methodologies. My responsibilities included hands-on Game Design and lore idea generation, as well as Programming gameplay mechanics with a Modular OOP design, and creating some 2D pixel art assets. This experience demonstrates my ability to execute a project from concept to completion under pressure, contributing across multiple disciplines. [![Play on itch.io](https://img.shields.io/badge/Play%20Game-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://lunathemoongirl.itch.io/geared-fate)
+  A one-month game jam project built with the Unity game engine and C#. I was the Project Manager, overseeing the full development cycle using Agile methodologies. My responsibilities included hands-on Game Design and lore idea generation, as well as Programming gameplay mechanics with a Modular OOP design, and creating some 2D pixel art assets. This experience demonstrates my ability to execute a project from concept to completion under pressure, contributing across multiple disciplines. 
+  <br><br>
+  <a href="https://lunathemoongirl.itch.io/geared-fate">
+    <img src="https://img.shields.io/badge/Play%20Game-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Geared Fate on itch.io">
+  </a>
 </h4>
 
 <br>
