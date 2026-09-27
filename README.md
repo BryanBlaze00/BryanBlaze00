@@ -175,7 +175,7 @@
 
 <h2 align="center">Certifications</h2>
 <p align="center">
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/Cert_Undergrad_Computer_Programming_CSUG.png" title="CSUG - Undergraduate Computer Science Certificate"/>
+  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CComputer%20Programming%20Undergraduate%20Certificate%204.0%20GPA-Official.jpg" title="CSUG - Undergraduate Computer Science Certificate"/>
   <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_MySQL%20Advanced%20Topics.png" title="LinkedIn - MySQL Advanced Topics"/>
   <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByCompTIA_Introduction%20to%20Career%20Skills%20in%20Software%20Development.png" title="CompTIA - Introduction to Career Skills in Software Development"/>
   <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByCompTia_Learning%20Linux%20Command%20Line%202018.png" title="CompTia - Learning Linux Command Line 2018"/>
