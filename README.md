@@ -175,54 +175,15 @@
 
 <h2 align="center">Certifications</h2>
 <p align="center"> <!-- Or use 200x150 when more -->
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/Computer%20Programming%20Undergraduate%20Certificate%204.0%20GPA-Official.jpg" title="CSUG - Undergraduate Computer Science Certificate"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_MySQL%20Advanced%20Topics.png" title="LinkedIn - MySQL Advanced Topics"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByCompTIA_Introduction%20to%20Career%20Skills%20in%20Software%20Development.png" title="CompTIA - Introduction to Career Skills in Software Development"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByCompTIA_Learning%20Linux%20Command%20Line%202018.png" title="CompTIA - Learning Linux Command Line 2018"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Software%20Design%20Modeling%20with%20UML.png" title="LinkedIn - Software Design Modeling with UML"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByPMI_Lean%20Six%20Sigma%20Define%20and%20Measure%20Tools.png" title="PMI - Lean Six Sigma Define and Measure Tools"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Programming%20Foundations%20Data%20Structures.png" title="LinkedIn - Programming Foundations Data Structures"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Python%20Data%20Structures%20and%20Algorithms.png" title="LinkedIn - Python Data Structures and Algorithms"/>
-  <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Programming%20Foundations%20ObjectOriented%20Design.png" title="LinkedIn - Programming Foundations Object Oriented Design"/>
-</p>
-
-<h2 align="center"> Certifications </h2>
-<p align = "center"> <!-- Or use 200x150 when more -->
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/Cert_Undergrad_Computer_Programming_CSUG.png" title="CSUG - Undergraduate Computer Science Certificate"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByLinkedIn_MySQL Advanced Topics.pdf" title="LinkedIn - MySQL Advanced Topics"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByCompTIA_Introduction to Career Skills in Software Development.pdf" title="CompTIA - Introduction to Career Skills in Software Development"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByCompTia_Learning Linux Command Line 2018.pdf" title="CompTia - Learning Linux Command Line 2018"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByLinkedIn_Software Design Modeling with UML.pdf" title="LinkedIn - Software Design Modeling with UML"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByPMI_Lean Six Sigma Define and Measure Tools.pdf" title="PMI - Lean Six Sigma Define and Measure Tools"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByLinkedIn_Programming Foundations Data Structures.pdf" title="LinkedIn - Programming Foundations Data Structures"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByLinkedIn_Python Data Structures and Algorithms.pdf" title="LinkedIn - Python Data Structures and Algorithms"/>
-  <img width="250" height="200" src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/CertificateByLinkedIn_Programming Foundations ObjectOriented Design.pdf" title="LinkedIn - Programming Foundations Object Oriented Design"/>
-
-  CertificateByCompTIA_Introduction to Career Skills in Software Development.png
-Add files via upload
-now
-CertificateByCompTIA_Learning Linux Command Line 2018.png
-Add files via upload
-now
-CertificateByLinkedIn_MySQL Advanced Topics.png
-Add files via upload
-now
-CertificateByLinkedIn_Programming Foundations Data Structures.png
-Add files via upload
-now
-CertificateByLinkedIn_Programming Foundations ObjectOriented Design.png
-Add files via upload
-now
-CertificateByLinkedIn_Python Data Structures and Algorithms.png
-Add files via upload
-now
-CertificateByLinkedIn_Software Design Modeling with UML.png
-Add files via upload
-now
-CertificateByPMI_Lean Six Sigma Define and Measure Tools.png
-Add files via upload
-now
-Computer Programming Undergraduate Certificate 4.0 GPA-Official.jpg
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/Computer%20Programming%20Undergraduate%20Certificate%204.0%20GPA-Official.jpg" title="CSUG - Undergraduate Computer Science Certificate"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_MySQL%20Advanced%20Topics.png" title="LinkedIn - MySQL Advanced Topics"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByCompTIA_Introduction%20to%20Career%20Skills%20in%20Software%20Development.png" title="CompTIA - Introduction to Career Skills in Software Development"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByCompTIA_Learning%20Linux%20Command%20Line%202018.png" title="CompTIA - Learning Linux Command Line 2018"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Software%20Design%20Modeling%20with%20UML.png" title="LinkedIn - Software Design Modeling with UML"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByPMI_Lean%20Six%20Sigma%20Define%20and%20Measure%20Tools.png" title="PMI - Lean Six Sigma Define and Measure Tools"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Programming%20Foundations%20Data%20Structures.png" title="LinkedIn - Programming Foundations Data Structures"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Python%20Data%20Structures%20and%20Algorithms.png" title="LinkedIn - Python Data Structures and Algorithms"/>
+  <img width="200" height="150" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Programming%20Foundations%20ObjectOriented%20Design.png" title="LinkedIn - Programming Foundations Object Oriented Design"/>
 </p>
 
 <div align="center">
