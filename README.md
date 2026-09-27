@@ -280,6 +280,15 @@
   &nbsp;&nbsp;
   <a href="https://bryanblazebb.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" title="My Itch.io Games"/></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBlaze00&theme=dark&hide_border=true" alt="Bryan's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanBlaze00&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanBlaze00&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
 <br>
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
