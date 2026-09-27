@@ -246,9 +246,11 @@
 <br>
 
 <div align="center">
-  <img width="350" height="250" src="https://raw.githubusercontent.com/BryanBlaze00/Geared-Fate/main/Media/GF_Gameplay_1.gif" alt="Geared Fate Gameplay 1"/> 
   <img width="250" height="200" src="https://img.itch.zone/aW1hZ2UvMzI4NTU4OS8xOTY4NzcwOC5wbmc=/original/49R48L.png" alt="Geared Fate Thumbnail"/> 
+  <!--
+  <img width="350" height="250" src="https://raw.githubusercontent.com/BryanBlaze00/Geared-Fate/main/Media/GF_Gameplay_1.gif" alt="Geared Fate Gameplay 1"/> 
   <img width="350" height="250" src="https://raw.githubusercontent.com/BryanBlaze00/Geared-Fate/main/Media/GF_Gameplay_2.gif" alt="Geared Fate Gameplay 2"/> 
+  -->
 </div>
 
 <br>
