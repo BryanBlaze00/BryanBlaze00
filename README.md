@@ -272,9 +272,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanblaze" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" title="Linked In Profile"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:crash.man000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" title="Email Me"/></a>
+  <a href="mailto:bryanmoffett.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" title="Email Me"/></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/gKyTAaZD8j" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/discord.png"  width="50" title="Join me on Discord"/></a>
+  <a href="https://discord.gg/cfDQj3hpCt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/discord.png"  width="50" title="Join me on Discord"/></a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/BryanBlaze" target="_blank" rel="noopener noreferrer"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png"  width="50" title="Hacker Rank Profile"/></a>
   &nbsp;&nbsp;
