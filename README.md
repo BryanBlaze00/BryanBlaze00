@@ -2,7 +2,7 @@
   Hello, I'm Bryan "Blaze" Moffett.
 </h1>
 <h3 align="center">
-  A Software/Game & Full Stack Developer.
+  A Software & Game Developer.
 </h3>
 
 <h6 align="center">
