@@ -21,3 +21,4 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_colors: github
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
