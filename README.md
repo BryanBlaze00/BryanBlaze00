@@ -300,6 +300,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+</div>
+
 <h4 align="center"> Stay Connected </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanblaze" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" title="Linked In Profile"/></a>
@@ -314,7 +318,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
 </div>
 
 <h2 align="center"> Metrics </h2>
@@ -326,7 +330,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
