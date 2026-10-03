@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello, I'm Bryan "Blaze" Moffett.
 </h1>
-<p align="center"><img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/profile-title.svg" alt="Software Engineer | Data & Database Systems | Game Development" width="900"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/profile-title.svg" alt="Software Engineer | Data & Database Systems | Game Development" width="800"/></p>
 <p align="center"><font color="#8B949E">Software engineer with 10+ years of technical experience building database solutions, automated workflows, reliable software, and enterprise support systems.</font></p>
 <p align="center">Seeking opportunities in software engineering, QA automation, data analysis, database engineering, and game development.</p>
 <p align="center"><a href="https://github.com/BryanBlaze00/BryanBlaze00/raw/main/BryanMoffett-Software-Engineer-Resume.pdf">Download my resume</a></p>
