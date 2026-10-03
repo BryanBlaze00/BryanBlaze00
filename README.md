@@ -226,7 +226,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/ProNameBG.png" alt="Name" width="800"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/profile-banner.png" alt="Name" width="800"/>
 </div> 
 
 <div align="center">
