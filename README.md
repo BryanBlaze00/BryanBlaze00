@@ -238,7 +238,7 @@
 </h1>
 
 <h3 align="center">
-  I am a dedicated Computer Science student with over 10 years of hands-on experience in IT, now specializing in software engineering. My background in Technical Support and Knowledgebase Management has provided me with a unique blend of problem-solving skills and technical acumen. I'm a highly motivated individual with a passion for building effective and innovative software solutions, including game development. I am eager to leverage my diverse experience and academic knowledge to contribute to a development team.
+  I am a software engineer with over 10 years of technical experience in database solutions, automated workflows, enterprise support infrastructure, and software quality assurance. My background includes SQL, ETL pipelines, data analysis, systems administration, and object-oriented programming in C#, C++, Java, and Python. I am currently completing my Bachelor of Science in Computer Science and building software projects across data systems, desktop applications, automation, and game development.
 </h3>
 
 <div align="center">
