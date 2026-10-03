@@ -5,17 +5,22 @@
   A Software & Game Developer.
 </h3>
 
-<h6 align="center">
-  Perfect code is not accident, it's architecture
+<h4 align="center">
+  Software engineer with 10+ years of IT experience, focused on building reliable software, data-driven solutions, and database-backed applications.
   <br>
-  Performance is not optional, it's fundamental
-  <br>
-  Clean code is not just readable, it's poetry
-  <br>
-  Innovation happens when you stop accepting limits
-  <br>
-  Every bug is a lesson, every feature is a conquest
-</h6>
+  Seeking opportunities in software engineering, QA automation, data analysis, database engineering, backend development, and game development.
+</h4>
+
+<h2 align="center">Featured Engineering Projects</h2>
+
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| [Geared Fate](https://github.com/BryanBlaze00/GearedFate) | Game systems, leadership, and modular gameplay | Unity, C# |
+| [WumpusWorld](https://github.com/BryanBlaze00/WumpusWorld) | AI reasoning, simulation, and automated testing | Python, unittest |
+| [MySQL Database Coursework](https://github.com/BryanBlaze00/mysql-database-coursework) | Relational schema design and procedural SQL | MySQL, SQL |
+| [AstroVault Banking GUI](https://github.com/BryanBlaze00/AstroVault-Banking-GUI) | Event-driven desktop application and transaction state | Java, Swing |
+| [Amazon Pick Queue](https://github.com/BryanBlaze00/Amazon-Pick-Queue) | Custom data structures and FIFO queue behavior | Java |
+| [Morse Code Converter](https://github.com/BryanBlaze00/MorseCodeConverter) | Tested CLI utility and input validation | Python, unittest |
 
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
@@ -264,6 +269,21 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+</div> 
+<h6 align="center">
+  Perfect code is not accident, it's architecture
+  <br>
+  Performance is not optional, it's fundamental
+  <br>
+  Clean code is not just readable, it's poetry
+  <br>
+  Innovation happens when you stop accepting limits
+  <br>
+  Every bug is a lesson, every feature is a conquest
+</h6>
 
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
