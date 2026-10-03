@@ -28,7 +28,7 @@
     <tr>
       <th valign="center" align="center" width="100px"><b>Languages<b></th>
       <th valign="center" align="center" width="100px"><b>Tools & Platforms<b></th>
-      <th valign="center" align="center" width="100px"><b>Game & Interactive Development<<b></th>
+      <th valign="center" align="center" width="100px"><b>Game & Interactive Development<b></th>
     </tr>
     <tr>
 <td valign="center" align="center" width="300px"> <!-- Languages -->
