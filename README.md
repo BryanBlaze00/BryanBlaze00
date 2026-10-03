@@ -1,16 +1,13 @@
 <h1 align="center">
   Hello, I'm Bryan "Blaze" Moffett.
 </h1>
-<h3 align="center">
-  Software Engineer | Data & Database Systems | Game Development
-</h3>
+<p align="center"><font color="#8B949E">Software Engineer | Data & Database Systems | Game Development</font></p>
+<p align="center"><font color="#8B949E">Software engineer with 10+ years of technical experience building database solutions, automated workflows, reliable software, and enterprise support systems.</font></p>
+<p align="center">Seeking opportunities in software engineering, QA automation, data analysis, database engineering, and game development.</p>
 
-<h4 align="center">
-  Software engineer with 10+ years of technical experience building database solutions, automated workflows, reliable software, and enterprise support systems.
-</h4>
-<p align="center">
-  Seeking opportunities in software engineering, QA automation, data analysis, database engineering, backend development, and game development.
-</p>
+<div align="center">
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+</div>
 
 <h2 align="center">Featured Engineering Projects</h2>
 
@@ -316,9 +313,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
-</div> 
-<h2 align="center"> Metrics </h3>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+</div>
+
+<h2 align="center"> Metrics </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/github-metrics.svg" alt="Bryan's Language Breakdown" />
 </p>
@@ -326,9 +324,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBlaze00&theme=dark&hide_border=true" alt="Bryan's GitHub Streak" />
 </p>
 
-<br>
+<div align="center">
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+</div>
+
 <h2 align="center"> Thanks for visiting my profile. </h2>
-<br>
 <h6 align="center">
   Perfect code is not accident, it's architecture
   <br>
