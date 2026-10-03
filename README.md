@@ -7,7 +7,7 @@
 <p align="center"><a href="https://github.com/BryanBlaze00/BryanBlaze00/raw/main/BryanMoffett-Software-Engineer-Resume.pdf">Download my resume</a></p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div>
 
 <h2 align="center">Featured Engineering Projects</h2>
@@ -53,10 +53,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center">Core Skills<br><img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/code.gif" height="40"/></h3>
+<h3 align="center">Core Skills<br><img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/code.gif" height="40"/></h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -198,14 +198,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Readme Quotes"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
 </div>
 
 <h2 align="center">Certifications</h2>
@@ -222,15 +222,15 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/profile-banner-crop.png" alt="Name" width="800"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/profile-banner-crop.png" alt="Name" width="800"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
 </div> 
 
 <h1 align="center">
@@ -242,7 +242,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div> 
 <!--
 <div align="center">
@@ -260,7 +260,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
 </div> 
 -->
 <h2 align="center">
@@ -269,7 +269,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=CnCWa9q0hes" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/GF_Trailer.png" width="500" title="Play Geared Fate Trailer" alt="Play Geared Fate Trailer"/>
+    <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/README-assets/GF_Trailer.png" width="500" title="Play Geared Fate Trailer" alt="Play Geared Fate Trailer"/>
   </a>
   <img src="https://img.itch.zone/aW1nLzE5NjQ2NzM1LnBuZw==/original/75S7nd.png" alt="Geared Fate Banner"/>  
 </div> 
@@ -301,7 +301,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
 </div>
 
 <h4 align="center"> Stay Connected </h4>
@@ -318,19 +318,19 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div>
 
 <h2 align="center"> Metrics </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/github-metrics.svg" alt="Bryan's Language Breakdown" />
+  <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/README-assets/github-metrics.svg" alt="Bryan's Language Breakdown" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBlaze00&theme=dark&hide_border=true" alt="Bryan's GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
 </div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
