@@ -6,6 +6,11 @@
 <p align="center">Seeking opportunities in software engineering, QA automation, data analysis, database engineering, and game development.</p>
 <p align="center"><a href="https://github.com/BryanBlaze00/BryanBlaze00/raw/main/BryanMoffett-Software-Engineer-Resume.pdf">Download my resume</a></p>
 
+<h4 align="center">Honors &amp; Memberships</h4>
+<p align="center">
+  <a href="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/SCLA-Honor-Society-Membership-2026.png">SCLA Honor Society Membership - 2026</a>
+</p>
+
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div>
@@ -221,6 +226,11 @@
   <img width="250" src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/Certificate/CertificateByLinkedIn_Programming%20Foundations%20ObjectOriented%20Design.png" title="LinkedIn - Programming Foundations Object Oriented Design"/>
 </p>
 
+<h4 align="center">Honors &amp; Memberships</h4>
+<p align="center">
+  <a href="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/SCLA-Honor-Society-Membership-2026.png">SCLA Honor Society Membership - 2026</a>
+</p>
+
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
 </div>
@@ -315,6 +325,11 @@
   <a href="https://www.hackerrank.com/profile/BryanBlaze" target="_blank" rel="noopener noreferrer"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png"  width="50" title="Hacker Rank Profile"/></a>
   &nbsp;&nbsp;
   <a href="https://bryanblazebb.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" title="My Itch.io Games"/></a>
+</p>
+
+<h4 align="center">Honors &amp; Memberships</h4>
+<p align="center">
+  <a href="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/SCLA-Honor-Society-Membership-2026.png">SCLA Honor Society Membership - 2026</a>
 </p>
 
 <div align="center">
