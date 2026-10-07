@@ -6,10 +6,6 @@
 <p align="center">Seeking opportunities in software engineering, QA automation, data analysis, database engineering, and game development.</p>
 <p align="center"><a href="https://github.com/BryanBlaze00/BryanBlaze00/raw/main/BryanMoffett-Software-Engineer-Resume.pdf">Download my resume</a></p>
 
-<h4 align="center">Honors &amp; Memberships</h4>
-<p align="center">
-  <a href="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/SCLA-Honor-Society-Membership-2026.png">SCLA Honor Society Membership - 2026</a>
-</p>
 
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
@@ -327,10 +323,6 @@
   <a href="https://bryanblazebb.itch.io" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000"  width="50" title="My Itch.io Games"/></a>
 </p>
 
-<h4 align="center">Honors &amp; Memberships</h4>
-<p align="center">
-  <a href="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/Certificate/SCLA-Honor-Society-Membership-2026.png">SCLA Honor Society Membership - 2026</a>
-</p>
 
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider2.png" alt="divider"/>
