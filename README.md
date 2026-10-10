@@ -332,9 +332,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BryanBlaze00/BryanBlaze00/main/README-assets/github-metrics.svg" alt="Bryan's Language Breakdown" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBlaze00&theme=dark&hide_border=true" alt="Bryan's GitHub Streak" />
-</p>
 
 <div align="center">
   <img src="https://github.com/BryanBlaze00/BryanBlaze00/blob/main/README-assets/divider1.png" alt="divider"/>
