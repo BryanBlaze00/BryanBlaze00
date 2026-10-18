@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Bryan "Blaze" Moffett.
+  Hello, I'm Bryan Moffett.
 </h1>
 <p align="center"><strong>Software Engineer | Data &amp; Database Systems | Game Development</strong></p>
 <p align="center"><font color="#8B949E">Software engineer with 10+ years of technical experience building database solutions, automated workflows, reliable software, and enterprise support systems.</font></p>
